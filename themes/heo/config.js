@@ -23,14 +23,14 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'SHUILIYUE.CC',
   HEO_HERO_TITLE_4: '优质的影视资源免费分享站',
   HEO_HERO_TITLE_5: '水里月资源',
-  HEO_HERO_TITLE_LINK: 'https:// haokawx.lot-ml.com/Product/index/797153',
+  HEO_HERO_TITLE_LINK: 'https://haokawx.lot-ml.com/Product/index/797153',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '', url: '/tag/' },
-  HEO_HERO_CATEGORY_2: { title: '', url: '/tag/' },
-  HEO_HERO_CATEGORY_3: { title: '', url: '/tag/' },
+  HEO_HERO_CATEGORY_1: { title: '', url: '/category' },
+  HEO_HERO_CATEGORY_2: { title: '', url: '/tag' },
+  HEO_HERO_CATEGORY_3: { title: '', url: '/archive' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
