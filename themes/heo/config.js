@@ -28,8 +28,8 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '电影', url: '/tag/电影' },
-  HEO_HERO_CATEGORY_2: { title: '剧集', url: '/tag/剧集' },
+  HEO_HERO_CATEGORY_1: { title: '', url: '/tag/' },
+  HEO_HERO_CATEGORY_2: { title: '', url: '/tag/' },
   HEO_HERO_CATEGORY_3: { title: '', url: '/tag/' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: '',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https:// shuiliyue.vercel.app/disclaimer',
+  HEO_INFO_CARD_URL3: '/disclaimer',
   HEO_INFO_CARD_TEXT3: '免责声明',
 
   // 用户技能图标
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: '/channels',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '已发布:',
