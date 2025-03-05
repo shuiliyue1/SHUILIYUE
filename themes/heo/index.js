@@ -394,7 +394,7 @@ const Layout404 = props => {
                 <h1 className='error-title font-extrabold md:text-9xl text-7xl dark:text-white'>
                   404
                 </h1>
-                <div className='dark:text-white'>请前往站内<留言求片>板块</div>
+                <div className='dark:text-white'>请前往站内留言求片板块</div>
                 <Link href='/'>
                   <button className='bg-blue-500 py-2 px-4 text-white shadow rounded-lg hover:bg-blue-600 hover:shadow-md duration-200 transition-all'>
                     回到主页
