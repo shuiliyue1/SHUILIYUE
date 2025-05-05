@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '领取免费大流量卡', url: 'https://haokawx.lot-ml.com/Product/index/797153' },
-    { title: '省内产品集合中心', url: 'https://haokawx.lot-ml.com/Product/tyindex/797153' }
+    { title: '', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
