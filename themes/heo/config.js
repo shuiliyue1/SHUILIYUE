@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '领取免费大流量卡', url: 'https://haokawx.lot-ml.com/Product/index/797153' },
+    { title: '领取免费大流量卡', url: 'https://282828.haoka.biz' },
     { title: '领取免费家用宽带', url: 'https://haokawx.lot-ml.com/Product/KdIndex/797153' }
   ],
 
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'SHUILIYUE.COM',
   HEO_HERO_TITLE_4: '优质的影视资源免费分享站',
   HEO_HERO_TITLE_5: '水里月影视',
-  HEO_HERO_TITLE_LINK: 'https://haokawx.lot-ml.com/Product/index/797153',
+  HEO_HERO_TITLE_LINK: '',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
