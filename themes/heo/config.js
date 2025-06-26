@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '领取免费大流量卡', url: 'https://t.nnkj77.com/c/262626' },
-    { title: '领取免费家用宽带', url: 'https://haokawx.lot-ml.com/Product/KdIndex/797153' }
+    { title: '领取免费家用宽带', url: 'https://h5.lot-ml.com/ProductEn/KdIndex/12325ca90b5d4df7' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -19,10 +19,10 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '免费分享',
-  HEO_HERO_TITLE_2: '电影剧集',
+  HEO_HERO_TITLE_2: '优质资源',
   HEO_HERO_TITLE_3: 'SHUILIYUE.COM',
-  HEO_HERO_TITLE_4: '优质的影视资源免费分享站',
-  HEO_HERO_TITLE_5: '水里月影视',
+  HEO_HERO_TITLE_4: '优质的资源免费分享站',
+  HEO_HERO_TITLE_5: '水里月分享',
   HEO_HERO_TITLE_LINK: '',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
