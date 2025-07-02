@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '领取免费大流量卡', url: 'http://storep.91haoka.cn/h5/index.html?id=10934' },
+    { title: '领取免费大流量卡', url: 'https://h5.gantanhao.com/url?value=CVB9u1751474837995' },
     { title: '领取免费家用宽带', url: 'https://haokawx.lot-ml.com/Product/KdIndex/1261595' }
   ],
 
