@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '领取免费大流量卡', url: 'https://t.nnkj77.com/c/262626' },
-    { title: '领取免费家用宽带', url: 'https://h5.lot-ml.com/ProductEn/KdIndex/12325ca90b5d4df7' }
+    { title: '领取免费大流量卡', url: 'http://storep.91haoka.cn/h5/index.html?id=10934' },
+    { title: '领取免费家用宽带', url: 'https://haokawx.lot-ml.com/Product/KdIndex/1261595' }
   ],
 
   // 英雄区左右侧组件颠倒位置
